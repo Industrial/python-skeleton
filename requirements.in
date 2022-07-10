@@ -1,0 +1,11 @@
+black
+flake8
+
+numpy
+pandas
+matplotlib
+scikit-learn
+ta
+
+tensorflow
+tensorboard

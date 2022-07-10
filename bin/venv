@@ -1,0 +1,3 @@
+#!/usr/bin/env fish
+virtualenv .venv
+source .venv/bin/activate.fish
